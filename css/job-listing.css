@@ -1,0 +1,125 @@
+.job-description-sec {
+    padding: 40px 0px;
+}
+
+.job-description-sec .info {
+    display: flex;
+    gap: 10px;
+    font-size: 14px;
+}
+
+.job-description-sec h3 {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.job-description-sec .inner-info i {
+    margin-right: 2px;
+}
+
+.job-description-sec h4 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.job-description-sec .description {
+    margin: 30px 0px;
+}
+
+.job-description-sec .description p {
+    color: grey;
+    font-size: 13px;
+    text-align: justify;
+}
+
+.job-description-sec .description ul {
+    list-style: none;
+    padding: 0px;
+    color: grey;
+    line-height: 25px;
+    font-size: 13px;
+}
+
+.job-description-sec .description ul i {
+    display: inline-block;
+    width: 20px;
+    color: #FE9603;
+}
+
+.job-description-sec .important-info {
+    background: #fe950362;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.job-description-sec  .important-info ul i {
+    display: inline-block;
+    width: 20px;
+    color: #FE9603;
+}
+
+.job-description-sec .important-info ul {
+    list-style: none;
+    padding: 0px;
+    color: black;
+    line-height: 30px;
+    font-size: 14px;
+}
+
+.job-description-sec .highlight {
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+}
+
+.job-description-sec .highlight h4 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.job-description-sec .highlight p {
+    color: black;
+    font-size: 14px;
+    text-align: justify;
+}
+
+.job-description-sec .apply-form h3 {
+    font-size: 24px;
+    margin: 20px 0px;
+    font-weight: 700;
+}
+
+.job-description-sec .apply-form .input-field {
+    margin-bottom: 20px;
+}
+
+.job-description-sec .apply-form .input-textarea {
+    margin-bottom: 20px;
+}
+
+.job-description-sec .apply-form button {
+    width: 100%;
+    border-radius: 0px;
+    color: white;
+    background-color: #FE9603;
+}
+
+.job-description-sec .apply-form button:active {
+    background-color: black;
+    color: white;
+}
+
+.job-description-sec .apply-form .form-control:focus {
+    box-shadow: none;
+    border: 1px solid #FE9603 !important;
+}
+
+.job-description-sec .apply-form input {
+    border-radius: 0px;
+}
+
+.job-description-sec .apply-form textarea {
+    border-radius: 0px;
+    resize: none;
+}
